@@ -1,39 +1,49 @@
 # DropCatch:
 
-Um jogo simples onde o jogador precisa pegar objetos que caem.
+A simple 2D game where the player must catch falling objects.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Objetivo:
--Testar mecânicas básicas de gameplay e input.
+# Objective:
+
+-This project was created to practice basic gameplay mechanics and player input.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Tecnologias:
+# Technologies:
+
 -GameMaker engine;
 
--GML.
+-GML(GameMaker Language)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-O link pra jogar o jogo é:
+The link to play the game:
 -
 https://anzol69.itch.io/drop-catch
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-O que eu aprendi com esse jogo:
+What I learned:
 -
--Criação de salas e troca entre elas;
+-Room creation and transitions;
 
--Lógica de pontuação;
+-Score system logic;
 
--Controles;
+-Player controls;
 
--Botão de pausar sem trocar de sala.
+-Pause system without changing rooms.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Screenshots:
+
 <img width="1066" height="1051" alt="Sem título" src="https://github.com/user-attachments/assets/baada621-0342-41fc-adf2-6558950db5f0" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1066" height="1051" alt="Sem título(1)" src="https://github.com/user-attachments/assets/da5354bb-d9e3-4e89-aed4-2f4425d21e6c" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1045" height="1045" alt="Game over" src="https://github.com/user-attachments/assets/953ee60e-8fcf-48b4-9995-eaa7015fe583" />
